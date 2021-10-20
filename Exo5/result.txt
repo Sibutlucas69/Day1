@@ -1,0 +1,3 @@
+mar. 19 oct. 2021 13:38:12 CEST
+lucass    tty2         2021-10-19 12:38(tty2)
+result.txt
